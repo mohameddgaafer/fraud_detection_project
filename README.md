@@ -36,7 +36,7 @@ fraud_detection_project/
 │
 ├── reports/
 │   ├── technical_report.pdf
-│   └── presentation.pptx   # (to be added)
+│   └── presentation.pptx  
 │
 └── README.md
 ```
